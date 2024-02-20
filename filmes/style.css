@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body {
+
+    background-image: linear-gradient(to top, #2e2e2c, #7e7975);
+    margin: 20px;
+    overflow: hidden;
+}
+
+h1 {
+
+    text-align: center;
+    color: #020202;
+    font-family: elephant;
+    font-size: 40px;
+    background-color: white;
+    border-radius: 20px;
+    margin-bottom: 150px;
+    box-shadow: 0 4px 8px black;
+    padding: 20px;
+
+}
+
+img {
+
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    border: 2px solid #020202;
+    box-shadow: 0 4px 8px rgb(226, 232, 235);
+
+}
+
+button {
+
+    color: white;
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
